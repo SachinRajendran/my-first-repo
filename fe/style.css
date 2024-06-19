@@ -1,0 +1,31 @@
+#first { 
+    background-color: #ff9933; 
+    width: 300px;
+    height: 50px;
+    border: black solid 5px; 
+    margin-left: 500px; 
+    margin-top: 250px;  
+} 
+
+#second {
+    background-color: white;
+        color: blue; 
+        
+    width: 300px;
+    height: 50px;
+    border: black solid 5px; 
+    margin-left: 500px; 
+    border-radius: 100%;
+    padding-top: 10%;
+
+    
+    
+}
+#third {
+    background-color: green;
+    width: 300px;
+    height: 50px; 
+    border: black solid 5px; 
+    margin-left: 500px;   
+}  
+
